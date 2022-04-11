@@ -1,0 +1,4 @@
+
+org.springframework.boot.autoconfigure.EnableAutoConfiguration = com.example.demo.NiceStarterConf
+
+org.springframework.boot.env.EnvironmentPostProcessor = com.example.demo.ProfileAutoDetectorEnvironmentProcessor
